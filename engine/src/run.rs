@@ -136,7 +136,7 @@ pub fn build_context_at(root: PathBuf, fixtures: bool) -> Result<Ctx> {
         .iter()
         .find(|p| p.kind == crate::config::ProviderKind::Github)
         .map(|p| p.user.clone())
-        .unwrap_or_else(|| "Vadim-Khristenko".into());
+        .unwrap_or_else(|| "VAIPROG".into());
 
     Ok(Ctx {
         raw_base: format!("https://raw.githubusercontent.com/{gh_user}/{gh_user}/main/assets"),

@@ -43,21 +43,21 @@ const repo = (name, o = {}) => ({
 });
 
 const github = {
-  profile: { login: "Vadim-Khristenko", name: "Vadim Khristenko", followers: 61, following: 18 },
+  profile: { login: "VAIPROG", name: "VAI_PROG (Vadim)", followers: 61, following: 18 },
   repos: [
-    repo("Vadim-Khristenko", { stars: 9, forks: 2, open_issues: 1, language: "Rust", pushed_at: "2026-07-19T06:04:00Z", html_url: "https://github.com/Vadim-Khristenko/Vadim-Khristenko", description: "Self-regenerating profile" }),
-    repo("Any-Tech-ARCHITECT", { stars: 218, forks: 31, open_issues: 14, language: "TypeScript", pushed_at: "2026-07-18T21:12:00Z", html_url: "https://github.com/Vadim-Khristenko/Any-Tech-ARCHITECT", description: "Client-side DPI-evasion profile generator" }),
-    repo("TheWall", { stars: 37, forks: 6, open_issues: 5, language: "TypeScript", pushed_at: "2026-07-17T19:40:00Z", html_url: "https://github.com/Vadim-Khristenko/TheWall", description: "Community tooling for the Filian world" }),
-    repo("HatsuneMikuEditorTheme", { stars: 24, forks: 4, open_issues: 2, language: "JSON", pushed_at: "2026-06-28T15:00:00Z", html_url: "https://github.com/Vadim-Khristenko/HatsuneMikuEditorTheme", description: "Teal all the way down" }),
-    repo("aethelgard", { stars: 12, forks: 1, open_issues: 3, language: "Python", pushed_at: "2026-07-15T09:30:00Z", html_url: "https://github.com/Vadim-Khristenko/aethelgard", description: "TQ-1.58 HVRL mirror" }),
-    repo("kumir3-core", { stars: 46, forks: 7, open_issues: 6, language: "Rust", pushed_at: "2026-07-16T14:20:00Z", html_url: "https://github.com/Vadim-Khristenko/kumir3-core", description: "Kumir 3 — modern compiler core for the classroom language" }),
-    repo("awg-containers-and-tools", { stars: 19, forks: 3, open_issues: 2, language: "Rust", pushed_at: "2026-07-12T15:37:00Z", html_url: "https://github.com/Vadim-Khristenko/awg-containers-and-tools", description: "AmneziaWG containers and tools" }),
-    repo("NotAnOtherVTUBERwiki", { stars: 14, forks: 2, open_issues: 4, language: "Rust", pushed_at: "2026-07-14T05:26:00Z", html_url: "https://github.com/Vadim-Khristenko/NotAnOtherVTUBERwiki", description: "NotAnotherWiki engine" }),
+    repo("VAIPROG", { stars: 9, forks: 2, open_issues: 1, language: "Rust", pushed_at: "2026-07-19T06:04:00Z", html_url: "https://github.com/VAIPROG/VAIPROG", description: "Self-regenerating profile" }),
+    repo("Any-Tech-ARCHITECT", { stars: 218, forks: 31, open_issues: 14, language: "TypeScript", pushed_at: "2026-07-18T21:12:00Z", html_url: "https://github.com/VAIPROG/Any-Tech-ARCHITECT", description: "Client-side DPI-evasion profile generator" }),
+    repo("TheWall", { stars: 37, forks: 6, open_issues: 5, language: "TypeScript", pushed_at: "2026-07-17T19:40:00Z", html_url: "https://github.com/VAIPROG/TheWall", description: "Community tooling for the Filian world" }),
+    repo("HatsuneMikuEditorTheme", { stars: 24, forks: 4, open_issues: 2, language: "JSON", pushed_at: "2026-06-28T15:00:00Z", html_url: "https://github.com/VAIPROG/HatsuneMikuEditorTheme", description: "Teal all the way down" }),
+    repo("aethelgard", { stars: 12, forks: 1, open_issues: 3, language: "Python", pushed_at: "2026-07-15T09:30:00Z", html_url: "https://github.com/VAIPROG/aethelgard", description: "TQ-1.58 HVRL mirror" }),
+    repo("kumir3-core", { stars: 46, forks: 7, open_issues: 6, language: "Rust", pushed_at: "2026-07-16T14:20:00Z", html_url: "https://github.com/VAIPROG/kumir3-core", description: "Kumir 3 — modern compiler core for the classroom language" }),
+    repo("awg-containers-and-tools", { stars: 19, forks: 3, open_issues: 2, language: "Rust", pushed_at: "2026-07-12T15:37:00Z", html_url: "https://github.com/VAIPROG/awg-containers-and-tools", description: "AmneziaWG containers and tools" }),
+    repo("NotAnOtherVTUBERwiki", { stars: 14, forks: 2, open_issues: 4, language: "Rust", pushed_at: "2026-07-14T05:26:00Z", html_url: "https://github.com/VAIPROG/NotAnOtherVTUBERwiki", description: "NotAnotherWiki engine" }),
     repo("fleet-scripts", { stars: 5, forks: 0, open_issues: 0, language: "Shell", pushed_at: "2026-05-02T08:00:00Z" }),
     repo("upstream-fork", { fork: true, stars: 2, forks: 0, open_issues: 0, language: "C++", pushed_at: "2026-04-01T08:00:00Z" }),
   ],
   languages: {
-    "Vadim-Khristenko": { Rust: 92000, Python: 41000 },
+    "VAIPROG": { Rust: 92000, Python: 41000 },
     "Any-Tech-ARCHITECT": { TypeScript: 310000, Vue: 88000, CSS: 21000 },
     "TheWall": { TypeScript: 150000, HTML: 12000 },
     "HatsuneMikuEditorTheme": { JavaScript: 8000 },
@@ -82,16 +82,16 @@ const github = {
   // exclude_commit_authors filter: 2 human commits + 2 CI-bot commits.
   commits_30d: {
     TheWall: [
-      { days_ago: 1, author_email: 'vadim@vai-rice.space', author_name: 'Vadim Khristenko', author_login: 'Vadim-Khristenko' },
+      { days_ago: 1, author_email: 'vadim@vai-rice.space', author_name: 'VAI_PROG (Vadim)', author_login: 'VAIPROG' },
       { days_ago: 2, author_email: 'actions@git.vai-rice.space', author_name: 'VIA GIT', author_login: '' },
       { days_ago: 2, author_email: '41898282+github-actions[bot]@users.noreply.github.com', author_name: 'github-actions[bot]', author_login: 'github-actions[bot]' },
-      { days_ago: 3, author_email: 'vadim@vai-rice.space', author_name: 'Vadim Khristenko', author_login: 'Vadim-Khristenko' },
+      { days_ago: 3, author_email: 'vadim@vai-rice.space', author_name: 'VAI_PROG (Vadim)', author_login: 'VAIPROG' },
     ],
   },
 };
 
 const codeberg = {
-  profile: { login: "VAI_PROG", name: "Vadim Khristenko", followers: 7, following: 3 },
+  profile: { login: "VAI_PROG", name: "VAI_PROG (Vadim)", followers: 7, following: 3 },
   repos: [
     repo("Any-Tech-ARCHITECT", { stars: 11, forks: 2, open_issues: 1, open_prs: 1, language: "TypeScript", pushed_at: "2026-07-18T22:00:00Z", html_url: "https://codeberg.org/VAI_PROG/Any-Tech-ARCHITECT", description: "Mirror" }),
     repo("TheWall", { stars: 3, forks: 0, open_issues: 0, open_prs: 0, language: "TypeScript", pushed_at: "2026-07-17T20:00:00Z", html_url: "https://codeberg.org/VAI_PROG/TheWall" }),
@@ -110,7 +110,7 @@ const codeberg = {
 };
 
 const vaiGit = {
-  profile: { login: "VAI_PROG", name: "Vadim Khristenko", followers: 4, following: 2 },
+  profile: { login: "VAI_PROG", name: "VAI_PROG (Vadim)", followers: 4, following: 2 },
   repos: [
     repo("aethelgard", { stars: 6, forks: 0, open_issues: 4, open_prs: 2, language: "Python", pushed_at: "2026-07-19T05:45:00Z", html_url: "https://git.vai-rice.space/VAI_PROG/aethelgard", description: "TQ-1.58 HVRL — source of truth" }),
     repo("Any-Tech-ARCHITECT", { stars: 4, forks: 1, open_issues: 2, open_prs: 1, language: "TypeScript", pushed_at: "2026-07-18T23:10:00Z", html_url: "https://git.vai-rice.space/VAI_PROG/Any-Tech-ARCHITECT" }),

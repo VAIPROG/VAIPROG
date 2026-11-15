@@ -438,7 +438,7 @@ mod tests {
                 "github",
                 ProviderKind::Github,
                 "GitHub",
-                "Vadim-Khristenko",
+                "VAIPROG",
                 false,
             ),
             entry(
@@ -465,7 +465,7 @@ mod tests {
     /// The real seeded exclusions: profile repo + CI bot identities.
     fn seeded_stats() -> StatsConfig {
         StatsConfig {
-            exclude_repos: vec!["Vadim-Khristenko".into()],
+            exclude_repos: vec!["VAIPROG".into()],
             exclude_commit_authors: vec![
                 "actions@git.vai-rice.space".into(),
                 "VIA GIT".into(),
@@ -618,7 +618,7 @@ mod tests {
         assert_eq!(pd.rollup.repo_count, base.rollup.repo_count - 1);
         assert_eq!(pd.rollup.stars, base.rollup.stars - 9); // its 9 stars gone
         assert!(pd.rollup.total_bytes < base.rollup.total_bytes); // langs gone
-        assert!(pd.repos.iter().all(|r| r.name != "Vadim-Khristenko"));
+        assert!(pd.repos.iter().all(|r| r.name != "VAIPROG"));
         // And the aggregate view can't resurrect it.
         let platforms: Vec<PlatformData> = providers
             .iter()

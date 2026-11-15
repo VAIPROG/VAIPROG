@@ -58,7 +58,7 @@ pub fn layout(
     };
     let mut out = vec![
         one("BADGES", "badges.svg", "Badges"),
-        one("HEADER", "header.svg", "Vadim Khristenko"),
+        one("HEADER", "header.svg", "VAI_PROG (Vadim)"),
         one(
             "THEMES",
             "repo_miku_themes.svg",

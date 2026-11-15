@@ -510,7 +510,7 @@ mod tests {
             (width("aaaa", &t) - 4.0 * one).abs() < 0.01,
             "monospace advances add up"
         );
-        assert!(width("Vadim Khristenko", &T::new(Font::ZenBlack, 58.0)) > 300.0);
+        assert!(width("VAI_PROG (Vadim)", &T::new(Font::ZenBlack, 58.0)) > 300.0);
         assert!(width("ab", &t.clone().ls(2.0)) > width("ab", &t));
     }
 

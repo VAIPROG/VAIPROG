@@ -22,7 +22,7 @@ primary = true
 id = "github"
 kind = "github"
 display = "GitHub"
-user = "Vadim-Khristenko"
+user = "VAIPROG"
 token_env = "GH_TOKEN"
 
 [[provider]]

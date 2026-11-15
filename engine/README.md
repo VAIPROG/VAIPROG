@@ -165,7 +165,7 @@ Set **Forgejo** entries on git.vai-rice.space (repo → Settings → Actions),
 | `TELEGRAM_CHAT_ID` | Forgejo + GitHub secret | chat/channel id | optional | where the Telegram notification goes |
 | `NOTIFY_WEBHOOK_URL` | Forgejo + GitHub secret | HTTPS endpoint (POST JSON) | optional | generic regeneration webhook |
 | `RUNNER_LABEL` | Forgejo repo **variable** | · | optional (default `docker`) | which self-hosted runner label the job targets |
-| `GH_MIRROR_REPO` | Forgejo repo **variable** | · | optional (default `Vadim-Khristenko/Vadim-Khristenko`) | GitHub mirror path |
+| `GH_MIRROR_REPO` | Forgejo repo **variable** | · | optional (default `VAIPROG/VAIPROG`) | GitHub mirror path |
 | `CODEBERG_MIRROR_REPO` | Forgejo repo **variable** | · | optional (default `VAI_PROG/.profile`) | Codeberg mirror path |
 
 ## Development

@@ -181,7 +181,7 @@ pub fn build(ctx: &Ctx) -> Result<Vec<(String, String)>> {
     b.push_str(&doc.text(
         fx,
         H - 46.0,
-        &format!("github.com/Vadim-Khristenko/{repo}"),
+        &format!("github.com/VAIPROG/{repo}"),
         &T::new(Font::MonoBold, 11.0).fill(INK),
     ));
     b.push_str(&kit::live_chip(

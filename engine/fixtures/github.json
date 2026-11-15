@@ -1,13 +1,13 @@
 {
   "profile": {
-    "login": "Vadim-Khristenko",
-    "name": "Vadim Khristenko",
+    "login": "VAIPROG",
+    "name": "VAI_PROG (Vadim)",
     "followers": 61,
     "following": 18
   },
   "repos": [
     {
-      "name": "Vadim-Khristenko",
+      "name": "VAIPROG",
       "fork": false,
       "stars": 9,
       "forks": 2,
@@ -16,7 +16,7 @@
       "open_prs": null,
       "language": "Rust",
       "pushed_at": "2026-07-19T06:04:00Z",
-      "html_url": "https://github.com/Vadim-Khristenko/Vadim-Khristenko",
+      "html_url": "https://github.com/VAIPROG/VAIPROG",
       "description": "Self-regenerating profile"
     },
     {
@@ -29,7 +29,7 @@
       "open_prs": null,
       "language": "TypeScript",
       "pushed_at": "2026-07-18T21:12:00Z",
-      "html_url": "https://github.com/Vadim-Khristenko/Any-Tech-ARCHITECT",
+      "html_url": "https://github.com/VAIPROG/Any-Tech-ARCHITECT",
       "description": "Client-side DPI-evasion profile generator"
     },
     {
@@ -42,7 +42,7 @@
       "open_prs": null,
       "language": "TypeScript",
       "pushed_at": "2026-07-17T19:40:00Z",
-      "html_url": "https://github.com/Vadim-Khristenko/TheWall",
+      "html_url": "https://github.com/VAIPROG/TheWall",
       "description": "Community tooling for the Filian world"
     },
     {
@@ -55,7 +55,7 @@
       "open_prs": null,
       "language": "JSON",
       "pushed_at": "2026-06-28T15:00:00Z",
-      "html_url": "https://github.com/Vadim-Khristenko/HatsuneMikuEditorTheme",
+      "html_url": "https://github.com/VAIPROG/HatsuneMikuEditorTheme",
       "description": "Teal all the way down"
     },
     {
@@ -68,7 +68,7 @@
       "open_prs": null,
       "language": "Python",
       "pushed_at": "2026-07-15T09:30:00Z",
-      "html_url": "https://github.com/Vadim-Khristenko/aethelgard",
+      "html_url": "https://github.com/VAIPROG/aethelgard",
       "description": "TQ-1.58 HVRL mirror"
     },
     {
@@ -81,7 +81,7 @@
       "open_prs": null,
       "language": "Rust",
       "pushed_at": "2026-07-16T14:20:00Z",
-      "html_url": "https://github.com/Vadim-Khristenko/kumir3-core",
+      "html_url": "https://github.com/VAIPROG/kumir3-core",
       "description": "Kumir 3 — modern compiler core for the classroom language"
     },
     {
@@ -94,7 +94,7 @@
       "open_prs": null,
       "language": "Rust",
       "pushed_at": "2026-07-12T15:37:00Z",
-      "html_url": "https://github.com/Vadim-Khristenko/awg-containers-and-tools",
+      "html_url": "https://github.com/VAIPROG/awg-containers-and-tools",
       "description": "AmneziaWG containers and tools"
     },
     {
@@ -107,7 +107,7 @@
       "open_prs": null,
       "language": "Rust",
       "pushed_at": "2026-07-14T05:26:00Z",
-      "html_url": "https://github.com/Vadim-Khristenko/NotAnOtherVTUBERwiki",
+      "html_url": "https://github.com/VAIPROG/NotAnOtherVTUBERwiki",
       "description": "NotAnotherWiki engine"
     },
     {
@@ -138,7 +138,7 @@
     }
   ],
   "languages": {
-    "Vadim-Khristenko": {
+    "VAIPROG": {
       "Rust": 92000,
       "Python": 41000
     },
@@ -959,8 +959,8 @@
       {
         "days_ago": 1,
         "author_email": "vadim@vai-rice.space",
-        "author_name": "Vadim Khristenko",
-        "author_login": "Vadim-Khristenko"
+        "author_name": "VAI_PROG (Vadim)",
+        "author_login": "VAIPROG"
       },
       {
         "days_ago": 2,
@@ -977,8 +977,8 @@
       {
         "days_ago": 3,
         "author_email": "vadim@vai-rice.space",
-        "author_name": "Vadim Khristenko",
-        "author_login": "Vadim-Khristenko"
+        "author_name": "VAI_PROG (Vadim)",
+        "author_login": "VAIPROG"
       }
     ]
   }

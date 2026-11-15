@@ -3,7 +3,7 @@
 # Edit words here; the cards stay about layout. Rebuild with `vai-profile build`.
 # ─────────────────────────────────────────────────────────────────────────────
 
-name = "Vadim Khristenko"
+name = "VAI_PROG (Vadim)"
 aliases = ["VAI_PROG", "VAI_Programmer", "VAI", "VOLT"]
 
 quotes = [
@@ -63,7 +63,7 @@ url = "https://vai-rice.space"
 
 [[socials]]
 label = "GitHub"
-url = "https://github.com/Vadim-Khristenko"
+url = "https://github.com/VAIPROG"
 
 [[socials]]
 label = "VAI Git"

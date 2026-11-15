@@ -59,7 +59,7 @@ mod tests {
 
     fn cfg() -> StatsConfig {
         StatsConfig {
-            exclude_repos: vec!["Vadim-Khristenko".into()],
+            exclude_repos: vec!["VAIPROG".into()],
             exclude_commit_authors: vec![
                 "actions@git.vai-rice.space".into(),
                 "VIA GIT".into(),
@@ -81,9 +81,9 @@ mod tests {
     #[test]
     fn repo_exclusion_is_mirror_normalized() {
         let s = cfg();
-        assert!(s.repo_excluded("Vadim-Khristenko"));
-        assert!(s.repo_excluded("vadim-khristenko"));
-        assert!(s.repo_excluded("Vadim-Khristenko.git"));
+        assert!(s.repo_excluded("VAIPROG"));
+        assert!(s.repo_excluded("vaiprog"));
+        assert!(s.repo_excluded("VAIPROG.git"));
         assert!(!s.repo_excluded("TheWall"));
     }
 
@@ -93,7 +93,7 @@ mod tests {
         assert!(s.commit_excluded(&commit("actions@git.vai-rice.space", "x", "")));
         assert!(s.commit_excluded(&commit("x@y.z", "via git", ""))); // case-insensitive
         assert!(s.commit_excluded(&commit("", "", "github-actions[bot]")));
-        assert!(!s.commit_excluded(&commit("vadim@vai-rice.space", "Vadim Khristenko", "vai")));
+        assert!(!s.commit_excluded(&commit("vadim@vai-rice.space", "VAI_PROG (Vadim)", "vai")));
         // Empty fields never match by accident.
         assert!(!StatsConfig::default().commit_excluded(&commit("", "", "")));
     }
@@ -102,7 +102,7 @@ mod tests {
     fn filter_keeps_only_human_commit_dates() {
         let s = cfg();
         let commits = vec![
-            commit("vadim@vai-rice.space", "Vadim Khristenko", "vai"),
+            commit("vadim@vai-rice.space", "VAI_PROG (Vadim)", "vai"),
             commit("actions@git.vai-rice.space", "VIA GIT", ""),
             commit("", "github-actions[bot]", "github-actions[bot]"),
         ];

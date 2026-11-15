@@ -174,13 +174,13 @@ jobs:
         continue-on-error: true
         env:
           TOKEN: ${{ secrets.GH_MIRROR_TOKEN }}
-          MIRROR: ${{ vars.GH_MIRROR_REPO || 'Vadim-Khristenko/Vadim-Khristenko' }}
+          MIRROR: ${{ vars.GH_MIRROR_REPO || 'VAIPROG/VAIPROG' }}
         run: |
           if [ -z "$TOKEN" ]; then
             echo "GH_MIRROR_TOKEN not set, skipping GitHub mirror."
             exit 0
           fi
-          git push "https://x-access-token:${TOKEN}@github.com/${MIRROR}.git" HEAD:main
+          git push "https://x-access-token:${TOKEN}@github.com/${MIRROR}.git" --force HEAD:main
 
       - name: Mirror-push → Codeberg (scoped token, Codeberg only)
         id: mirror-codeberg
@@ -194,7 +194,7 @@ jobs:
             echo "CODEBERG_MIRROR_TOKEN not set, skipping Codeberg mirror."
             exit 0
           fi
-          git push "https://${TOKEN}@codeberg.org/${MIRROR}.git" HEAD:main
+          git push "https://${TOKEN}@codeberg.org/${MIRROR}.git" --force HEAD:main
 
       # ── Optional notifications (each skipped cleanly when unset) ──────────
       - name: Notify, Telegram (optional)
