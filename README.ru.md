@@ -112,36 +112,6 @@ impl Developer for Vadim {
 </p>
 <!-- ENGINE:THEWALL:END -->
 
-### 📜 Кумир 3
-
-**[kumir3-core](https://github.com/VAIPROG/kumir3-core)**: школьный язык Кумир, пересобранный на Rust. Интерпретатор, TUI и компилятор в Rust и WASM, и да, Робот всё так же красит коридоры.
-
-<!-- ENGINE:KUMIR:START -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_kumir.svg?v=f14712b7fa-69967" alt="Kumir 3" width="100%"/>
-</p>
-<!-- ENGINE:KUMIR:END -->
-
-<!-- ENGINE:DIV_RESEARCH:START -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_research.svg?v=097b911d31-69967" alt="RESEARCH" width="100%"/>
-</p>
-<!-- ENGINE:DIV_RESEARCH:END -->
-
-<a id="research"></a>
-
-## 🔬 Исследование
-
-<!-- ENGINE:RESEARCH:START -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/research.svg?v=5a453e6f3d-69967" alt="Active research: Aethelgard TQ-1.58" width="100%"/>
-</p>
-<!-- ENGINE:RESEARCH:END -->
-
-**Aethelgard TQ-1.58 HVRL** это архитектура **низкобитной агентной модели для рассуждений** с **проверяемым обучением**, **иерархическим обучением с подкреплением** и **специализацией на разработке ПО**. Веса живут в троичном пространстве `{-1, 0, +1}`, примерно 1.58 бита на вес, отсюда и название.
-
-**Почему троичные?** Вес, который бывает только −1, 0 или +1, превращает большинство умножений в сложения, а ноль вообще в ничто. Инференс становится настолько дешёвым, что модель можно гонять на своём флоте, а не арендовать датацентр. *Если* её получится обучить и не свалиться с обрыва по точности. Это «если» и есть исследование.
-
 <!-- ENGINE:DIV_SNACKERS:START -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_snackers.svg?v=64285e0fae-69967" alt="SNACKERS" width="100%"/>

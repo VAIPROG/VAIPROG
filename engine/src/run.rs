@@ -64,8 +64,6 @@ pub const CARDS: &[(&str, CardFn)] = &[
     ("acat", cards::acat::build),
     ("wiki", cards::wiki::build),
     ("thewall", cards::thewall::build),
-    ("kumir", cards::kumir::build),
-    ("research", cards::research::build),
     ("snackers", cards::snackers::build),
     ("bestgame", cards::bestgame::build),
     ("games", cards::games::build),

@@ -18,12 +18,13 @@ quotes = [
 ]
 
 [research]
-name = "Aethelgard TQ-1.58 HVRL"
-subtitle = "low-bit agentic reasoning architecture"
-blurb = "Architecture for a low-bit agentic reasoning model with verifiable training, hierarchical RL and domain specialization for software engineering."
-phase = "architecture & training-data pipeline"
-progress = 0.34
-tags = ["verifiable training", "hierarchical RL", "domain: software-engineering", "ternary {-1,0,+1}"]
+# parked: the research card is off until a new one replaces it
+name = "TBA"
+subtitle = "next research track"
+blurb = "Coming later."
+phase = "planning"
+progress = 0.0
+tags = []
 
 # ── AI Lab ──────────────────────────────────────────────────────────────────
 # "Companions / sparring partners", NOT a vibe-coding autopilot.
@@ -146,10 +147,6 @@ name = "NoAki"
 note = "soft synth therapy"
 
 # ── Rotating "current focus" (vibe card fallback) ───────────────────────────
-[[focus]]
-name = "Aethelgard TQ-1.58"
-note = "low-bit reasoning research"
-
 [[focus]]
 name = "Any Tech Architect"
 note = "AmneziaWG 3.1 and XRay, explained"
@@ -497,11 +494,6 @@ note = "4 looks · 6 editors · more coming"
 accent = "#e87ea1"
 solo = true
 
-[[header.tracks]]
-name = "Aethelgard TQ-1.58"
-note = "ternary {-1, 0, +1} research"
-accent = "#d4a0ff"
-
 # ── Keycap badges above the header ─────────────────────────────────────────
 [[badges]]
 legend = "portfolio"
@@ -544,10 +536,6 @@ ink = "#eef2ff"
 [[sections]]
 key = "projects"
 label = "PROJECTS"
-
-[[sections]]
-key = "research"
-label = "RESEARCH"
 
 [[sections]]
 key = "snackers"
@@ -597,9 +585,6 @@ ru = "filian.ru"
 [showcase.thewall]
 repo = "TheWall"
 site = "the-wall.vai-rice.space"
-
-[showcase.kumir]
-repo = "kumir3-core"
 
 # The homelab card. home: laptops working as servers, one system each.
 # main: the everyday laptop, every system it boots. vps: one entry per server.

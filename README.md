@@ -112,36 +112,6 @@ I write code that is **practical and a little playful**: backend services, bots 
 </p>
 <!-- ENGINE:THEWALL:END -->
 
-### 📜 Kumir 3
-
-**[kumir3-core](https://github.com/VAIPROG/kumir3-core)**: the classroom language Kumir, rebuilt in Rust. Interpreter, TUI and a compiler to Rust and WASM, and yes, the Robot still paints corridors.
-
-<!-- ENGINE:KUMIR:START -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_kumir.svg?v=f14712b7fa-69967" alt="Kumir 3" width="100%"/>
-</p>
-<!-- ENGINE:KUMIR:END -->
-
-<!-- ENGINE:DIV_RESEARCH:START -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_research.svg?v=097b911d31-69967" alt="RESEARCH" width="100%"/>
-</p>
-<!-- ENGINE:DIV_RESEARCH:END -->
-
-<a id="research"></a>
-
-## 🔬 Research
-
-<!-- ENGINE:RESEARCH:START -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/research.svg?v=5a453e6f3d-69967" alt="Active research: Aethelgard TQ-1.58" width="100%"/>
-</p>
-<!-- ENGINE:RESEARCH:END -->
-
-**Aethelgard TQ-1.58 HVRL** is an architecture for a **low-bit agentic reasoning model** with **verifiable training**, **hierarchical reinforcement learning** and a **specialization in software engineering**. Its weights live in ternary space `{-1, 0, +1}`, about 1.58 bits each, hence the name.
-
-**Why ternary?** A weight that can only be −1, 0 or +1 turns most multiplications into additions and a zero into nothing at all. Inference gets cheap enough for my own fleet instead of a rented datacenter, *if* the model trains without falling off the accuracy cliff. That "if" is the research.
-
 <!-- ENGINE:DIV_SNACKERS:START -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_snackers.svg?v=64285e0fae-69967" alt="SNACKERS" width="100%"/>

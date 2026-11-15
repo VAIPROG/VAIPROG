@@ -17,9 +17,11 @@ pub mod games;
 pub mod header;
 pub mod homelab;
 pub mod kit;
+#[allow(dead_code)] // parked: off the README until a replacement card lands
 pub mod kumir;
 pub mod music;
 pub mod platforms;
+#[allow(dead_code)] // parked: off the README until a replacement card lands
 pub mod research;
 pub mod snackers;
 pub mod themes;

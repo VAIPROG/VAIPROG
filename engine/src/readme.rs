@@ -72,12 +72,6 @@ pub fn layout(
             "NotAnOtherVTUBERwiki and FilianWIKI",
         ),
         one("THEWALL", "repo_thewall.svg", "The Wall Dev"),
-        one("KUMIR", "repo_kumir.svg", "Kumir 3"),
-        one(
-            "RESEARCH",
-            "research.svg",
-            "Active research: Aethelgard TQ-1.58",
-        ),
         one("SNACKERS", "fandom_snackers.svg", "Snackers"),
         one("BESTGAME", "bestgame.svg", "Best game: NIKKE"),
         one("GAMES", "games.svg", "Now playing"),

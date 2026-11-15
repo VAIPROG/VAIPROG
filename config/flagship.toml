@@ -50,18 +50,3 @@ tags = ["extension", "pixel canvas", "filian"]
 blurb = "Template overlay and tools for The Wall, the Snackers' 6000 x 4200 pixel canvas."
 accent = "#f7768e"
 
-[[project]]
-name = "Kumir 3"
-repo = "kumir3-core"
-prefer = "github"
-tags = ["language", "education", "compiler"]
-blurb = "The classroom language Kumir, rebuilt in Rust, compiling to Rust and WASM."
-accent = "#7aa2f7"
-
-[[project]]
-name = "Aethelgard"
-repo = "aethelgard"
-prefer = "vai-git"
-tags = ["ml", "ternary", "research"]
-blurb = "TQ-1.58 HVRL: low-bit agentic reasoning, verifiable training."
-accent = "#bb9af7"

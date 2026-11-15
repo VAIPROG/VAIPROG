@@ -581,18 +581,6 @@ mod tests {
                 project.repo
             );
         }
-        // The Kumir 3 entry specifically headlines from the GitHub fixture.
-        let kumir = cfg
-            .flagship
-            .project
-            .iter()
-            .find(|p| p.name == "Kumir 3")
-            .expect("Kumir 3 configured");
-        let live = resolve_flagship(kumir, &agg, &providers, &no_stats());
-        assert_eq!(live.source.as_deref(), Some("GitHub"));
-        assert_eq!(live.stars, 46);
-        assert_eq!(live.pulse.total_commits, Some(128));
-        assert!(live.langs.contains_key("Rust"));
     }
 
     #[test]

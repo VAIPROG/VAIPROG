@@ -123,17 +123,8 @@ mod tests {
     }
 
     #[test]
-    fn kumir_flagship_and_miside_game_are_configured() {
+    fn miside_game_is_configured() {
         let cfg = Config::load(&repo_config_dir()).expect("config/ must load");
-        let kumir = cfg
-            .flagship
-            .project
-            .iter()
-            .find(|p| p.name == "Kumir 3")
-            .expect("Kumir 3 flagship entry");
-        assert_eq!(kumir.repo, "kumir3-core");
-        assert_eq!(kumir.prefer.as_deref(), Some("github"));
-
         let miside = cfg
             .profile
             .games
