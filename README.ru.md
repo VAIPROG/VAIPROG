@@ -8,13 +8,13 @@
 
 <!-- ENGINE:BADGES:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/badges.svg?v=33a8be207f-69967" alt="Badges" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/badges.svg?v=33a8be207f-69968" alt="Badges" width="100%"/>
 </p>
 <!-- ENGINE:BADGES:END -->
 
 <!-- ENGINE:HEADER:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/header.svg?v=aa85dbbd8e-69967" alt="VAI_PROG (Vadim)" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/header.svg?v=aa85dbbd8e-69968" alt="VAI_PROG (Vadim)" width="100%"/>
 </p>
 <!-- ENGINE:HEADER:END -->
 
@@ -54,7 +54,7 @@ impl Developer for Vadim {
 
 <!-- ENGINE:DIV_PROJECTS:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_projects.svg?v=b3a19d026f-69967" alt="PROJECTS" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_projects.svg?v=b3a19d026f-69968" alt="PROJECTS" width="100%"/>
 </p>
 <!-- ENGINE:DIV_PROJECTS:END -->
 
@@ -68,7 +68,7 @@ impl Developer for Vadim {
 
 <!-- ENGINE:THEMES:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_miku_themes.svg?v=9ab35c944f-69967" alt="Hatsune Miku editor themes" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_miku_themes.svg?v=9ab35c944f-69968" alt="Hatsune Miku editor themes" width="100%"/>
 </p>
 <!-- ENGINE:THEMES:END -->
 
@@ -78,7 +78,7 @@ impl Developer for Vadim {
 
 <!-- ENGINE:ARCHITECT:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_architect.svg?v=8cca1a6347-69967" alt="Any Tech Architect" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_architect.svg?v=3b47ce69e8-69968" alt="Any Tech Architect" width="100%"/>
 </p>
 <!-- ENGINE:ARCHITECT:END -->
 
@@ -88,7 +88,7 @@ impl Developer for Vadim {
 
 <!-- ENGINE:ACAT:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_acat.svg?v=c5c39473cb-69967" alt="A CAT: awg-containers-and-tools" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_acat.svg?v=c5c39473cb-69968" alt="A CAT: awg-containers-and-tools" width="100%"/>
 </p>
 <!-- ENGINE:ACAT:END -->
 
@@ -98,7 +98,7 @@ impl Developer for Vadim {
 
 <!-- ENGINE:WIKI:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_wiki.svg?v=624a7f2829-69967" alt="NotAnOtherVTUBERwiki and FilianWIKI" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_wiki.svg?v=624a7f2829-69968" alt="NotAnOtherVTUBERwiki and FilianWIKI" width="100%"/>
 </p>
 <!-- ENGINE:WIKI:END -->
 
@@ -108,13 +108,13 @@ impl Developer for Vadim {
 
 <!-- ENGINE:THEWALL:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_thewall.svg?v=4edd5235c5-69967" alt="The Wall Dev" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_thewall.svg?v=4edd5235c5-69968" alt="The Wall Dev" width="100%"/>
 </p>
 <!-- ENGINE:THEWALL:END -->
 
 <!-- ENGINE:DIV_SNACKERS:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_snackers.svg?v=3614173e9d-69967" alt="SNACKERS" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_snackers.svg?v=3614173e9d-69968" alt="SNACKERS" width="100%"/>
 </p>
 <!-- ENGINE:DIV_SNACKERS:END -->
 
@@ -124,7 +124,7 @@ impl Developer for Vadim {
 
 <!-- ENGINE:SNACKERS:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/fandom_snackers.svg?v=6c579f7595-69967" alt="Snackers" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/fandom_snackers.svg?v=6c579f7595-69968" alt="Snackers" width="100%"/>
 </p>
 <!-- ENGINE:SNACKERS:END -->
 
@@ -140,7 +140,7 @@ impl Developer for Vadim {
 
 <!-- ENGINE:DIV_TAILS:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_tails.svg?v=87d308d876-69967" alt="" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_tails.svg?v=87d308d876-69968" alt="" width="100%"/>
 </p>
 <!-- ENGINE:DIV_TAILS:END -->
 
@@ -209,7 +209,7 @@ impl Developer for Vadim {
 
 <!-- ENGINE:DIV_OFFCLOCK:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_offclock.svg?v=46b6f43fe9-69967" alt="OFF THE CLOCK" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_offclock.svg?v=46b6f43fe9-69968" alt="OFF THE CLOCK" width="100%"/>
 </p>
 <!-- ENGINE:DIV_OFFCLOCK:END -->
 
@@ -219,7 +219,7 @@ impl Developer for Vadim {
 
 <!-- ENGINE:BESTGAME:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/bestgame.svg?v=037f9a3677-69967" alt="Best game: NIKKE" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/bestgame.svg?v=037f9a3677-69968" alt="Best game: NIKKE" width="100%"/>
 </p>
 <!-- ENGINE:BESTGAME:END -->
 
@@ -229,13 +229,13 @@ impl Developer for Vadim {
 
 <!-- ENGINE:GAMES:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/games.svg?v=937f8021d3-69967" alt="Now playing" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/games.svg?v=2edf89316a-69968" alt="Now playing" width="100%"/>
 </p>
 <!-- ENGINE:GAMES:END -->
 
 <!-- ENGINE:DIV_WAVE:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_wave.svg?v=6370f9cf59-69967" alt="" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_wave.svg?v=6370f9cf59-69968" alt="" width="100%"/>
 </p>
 <!-- ENGINE:DIV_WAVE:END -->
 
@@ -243,13 +243,13 @@ impl Developer for Vadim {
 
 <!-- ENGINE:MUSIC:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/music.svg?v=58d944212e-69967" alt="Music via Last.fm" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/music.svg?v=58d944212e-69968" alt="Music via Last.fm" width="100%"/>
 </p>
 <!-- ENGINE:MUSIC:END -->
 
 <!-- ENGINE:DIV_TELEMETRY:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_telemetry.svg?v=992fc2261d-69967" alt="TELEMETRY" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_telemetry.svg?v=992fc2261d-69968" alt="TELEMETRY" width="100%"/>
 </p>
 <!-- ENGINE:DIV_TELEMETRY:END -->
 
@@ -261,19 +261,19 @@ impl Developer for Vadim {
 
 <!-- ENGINE:STATS:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/dashboard.svg?v=95fd96adc8-69967" alt="Live telemetry" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/dashboard.svg?v=02c88fc4f8-69968" alt="Live telemetry" width="100%"/>
 </p>
 <!-- ENGINE:STATS:END -->
 
 <!-- ENGINE:PLATFORMS:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/platforms.svg?v=9d17a9d428-69967" alt="Platforms" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/platforms.svg?v=42be52ff09-69968" alt="Platforms" width="100%"/>
 </p>
 <!-- ENGINE:PLATFORMS:END -->
 
 <!-- ENGINE:DIV_INFRA:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_infra.svg?v=c0e26ac8e6-69967" alt="INFRA" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_infra.svg?v=c0e26ac8e6-69968" alt="INFRA" width="100%"/>
 </p>
 <!-- ENGINE:DIV_INFRA:END -->
 
@@ -287,13 +287,13 @@ impl Developer for Vadim {
 
 <!-- ENGINE:HOMELAB:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/homelab.svg?v=71eafad201-69967" alt="Homelab: laptops at home, VPS out in the world" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/homelab.svg?v=71eafad201-69968" alt="Homelab: laptops at home, VPS out in the world" width="100%"/>
 </p>
 <!-- ENGINE:HOMELAB:END -->
 
 <!-- ENGINE:DIV_CONTACT:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_contact.svg?v=6bf98a880b-69967" alt="REACH ME" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_contact.svg?v=6bf98a880b-69968" alt="REACH ME" width="100%"/>
 </p>
 <!-- ENGINE:DIV_CONTACT:END -->
 
@@ -330,13 +330,13 @@ impl Developer for Vadim {
 
 <!-- ENGINE:DIV_STAFF:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_staff.svg?v=39a2fcfb5d-69967" alt="" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/divider_staff.svg?v=39a2fcfb5d-69968" alt="" width="100%"/>
 </p>
 <!-- ENGINE:DIV_STAFF:END -->
 
 <!-- ENGINE:FOOTER:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/footer.svg?v=5bb5f890f3-69967" alt="Fine. Rendered by the VAI Profile Engine" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/footer.svg?v=3483ec9ec9-69968" alt="Fine. Rendered by the VAI Profile Engine" width="100%"/>
 </p>
 <!-- ENGINE:FOOTER:END -->
 
