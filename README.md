@@ -78,7 +78,7 @@ I write code that is **practical and a little playful**: backend services, bots 
 
 <!-- ENGINE:ARCHITECT:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_architect.svg?v=3b47ce69e8-69968" alt="Any Tech Architect" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/repo_architect.svg?v=ec2ccdfad1-69968" alt="Any Tech Architect" width="100%"/>
 </p>
 <!-- ENGINE:ARCHITECT:END -->
 
@@ -261,13 +261,13 @@ Everything here comes fresh from **three forges at once**: GitHub, Codeberg and 
 
 <!-- ENGINE:STATS:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/dashboard.svg?v=02c88fc4f8-69968" alt="Live telemetry" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/dashboard.svg?v=1ee674ebfe-69968" alt="Live telemetry" width="100%"/>
 </p>
 <!-- ENGINE:STATS:END -->
 
 <!-- ENGINE:PLATFORMS:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/platforms.svg?v=42be52ff09-69968" alt="Platforms" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/platforms.svg?v=b63397f4f6-69968" alt="Platforms" width="100%"/>
 </p>
 <!-- ENGINE:PLATFORMS:END -->
 
@@ -336,7 +336,7 @@ The fan addresses are the same ones printed on [filian.wiki](https://filian.wiki
 
 <!-- ENGINE:FOOTER:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/footer.svg?v=3483ec9ec9-69968" alt="Fine. Rendered by the VAI Profile Engine" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/footer.svg?v=db8d1f0ba9-69968" alt="Fine. Rendered by the VAI Profile Engine" width="100%"/>
 </p>
 <!-- ENGINE:FOOTER:END -->
 
