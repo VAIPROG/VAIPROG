@@ -261,13 +261,13 @@ impl Developer for Vadim {
 
 <!-- ENGINE:STATS:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/dashboard.svg?v=2a493d595d-69972" alt="Live telemetry" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/dashboard.svg?v=67da2b1592-69972" alt="Live telemetry" width="100%"/>
 </p>
 <!-- ENGINE:STATS:END -->
 
 <!-- ENGINE:PLATFORMS:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/platforms.svg?v=92e1f0a7b6-69972" alt="Platforms" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/platforms.svg?v=321e88426f-69972" alt="Platforms" width="100%"/>
 </p>
 <!-- ENGINE:PLATFORMS:END -->
 
@@ -336,7 +336,7 @@ impl Developer for Vadim {
 
 <!-- ENGINE:FOOTER:START -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/footer.svg?v=4c3fcc0336-69972" alt="Fine. Rendered by the VAI Profile Engine" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VAIPROG/VAIPROG/main/assets/footer.svg?v=a561a245be-69972" alt="Fine. Rendered by the VAI Profile Engine" width="100%"/>
 </p>
 <!-- ENGINE:FOOTER:END -->
 
